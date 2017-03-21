@@ -8,7 +8,7 @@ import java.sql.SQLException;
  */
 public class test_caoming {
 	public static void main(String[] args) throws SQLException {
-//		createAvgSpdByPort();
+////		createAvgSpdByPort();
 //		createSumByPort();
 //		insertAvgSpdByPort(10, "controlid", "switchid", "portid", Long.valueOf(123456789));
 //		insertAvgSpdByPort(10, "controllerid", "switchid", "portid", Long.valueOf(66666));
